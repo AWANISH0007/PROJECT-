@@ -1,0 +1,51 @@
+#top-header{
+    height: 100px;
+    width: 100%;
+    border: 2px solid black;
+    display: flex;
+}
+#logo{
+    height: 100%;
+    width: 200px;
+    border: 2px solid black;
+    background-color: blueviolet;
+}
+#banner{
+    height: 100%;
+    width: 100%;
+    border: 2px solid black;
+    background-color:greenyellow;
+
+}
+#main-content{
+    height: 600px;
+    width: 100%;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: lemonchiffon;
+}
+.card-first-row{
+    height: 200px;
+    width: 800px;
+    border: 2px solid black;
+    display: flex;
+    background-color: lightgreen;
+}
+.card-second-row{
+    height: 200px;
+    width: 800px;
+    border: 2px solid black;margin-top: 50px;
+    display: flex;
+    background-color: lightgreen;
+
+
+    
+}
+.cards{
+    height: 100%;
+    width: 275px;
+    border: 2px solid black;
+}
